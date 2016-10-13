@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\owner\documents\programming\c++\text_war_sim\text_war_sim\main.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Text_War_Sim.vcxproj -> C:\Users\Owner\Documents\Programming\c++\Text_War_Sim\Debug\Text_War_Sim.exe
+  Text_War_Sim.vcxproj -> C:\Users\Owner\Documents\Programming\c++\Text_War_Sim\Debug\Text_War_Sim.pdb (Partial PDB)
